@@ -1,0 +1,4 @@
+sse-expr - Generate SSE expressions from prefix expressions
+
+Simple hack to walk a prefix expression (e.g. a regular s-expression
+such as (+ 1 (* 2 x)) and generate the equivalent SSE code.
